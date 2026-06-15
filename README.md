@@ -80,10 +80,7 @@ arges@github:~$ cat interests.txt
 
 <div align="center">
   <a href="https://anilist.co/user/Argeees">
-    <img 
-      src="https://img.anili.st/user/Argeees"
-      alt="AniList Profile Card"
-    />
+    <img src="github-metrics.svg" alt="AniList Profile Card" />
   </a>
 </div>
 
