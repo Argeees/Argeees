@@ -4,35 +4,38 @@
 
 <br>
 
-<table width="100%">
-  <tr>
-    <td width="30%" align="center">
+<!-- Terminal Section -->
+<table width="100%" style="border: none; border-collapse: collapse;">
+  <tr style="border: none;">
+    <td width="40%" align="center" style="border: none;">
       <img src="images/b3a93c7f874f8cc67fe7b0837ff4c344.jpg" width="100%" style="border-radius:10px;"/>
     </td>
-    <td width="70%">
-<pre><code>Profile Version: 1.1
---------------------
+    <td width="60%" style="border: none;">
+
+```yaml
+arges@github:~$ whoami
+Username: "Arges Martinez Chavez"
 Level: 22
+Role: "Estudiante de Ing. de Software & Desarrollador Web"
 
-Username: Arges Martinez Chavez
-WhoamI: Estudiante de Ing. de Software & Desarrollador Web
+arges@github:~$ neofetch
+OS: "Windows 11 Pro / Mint"
+Location: "El Pueblito, Querétaro, México"
+Education: "UAQ (Universidad Autónoma de Querétaro)"
 
-OS: Windows 11 Pro / Mint
+arges@github:~$ cat interests.txt
+- "Hi-Fi Audio (IEMs, DACs)"
+- "Competitive Gaming (Rainbow Six Siege, osu!)"
+- "Reading Web Novels (LOTM, Shadow Slave, TBATE)"
+```
 
-Location: El Pueblito, Querétaro, México
-Education: UAQ (Universidad Autónoma de Querétaro)
-
-Interests:
-  - Hi-Fi Audio (IEMs, DACs)
-  - Competitive Gaming (Rainbow Six Siege, osu!)
-  - Reading Web Novels (LOTM, Shadow Slave, TBATE)</code></pre>
-    </td>
+    
   </tr>
 </table>
 
 <br clear="both">
 
-<!-- Reproducción Tidal (Reemplazo amigable con Markdown) -->
+<!-- Reproducción Tidal -->
 <div align="center">
   <br>
   <a href="https://tidal.com/browse/track/390710716">
@@ -70,7 +73,8 @@ Interests:
 <br>
 
 <div align="center">
-  <!-- Tarjeta de AniList (Reemplaza TU_USUARIO_ANILIST por el tuyo) -->
+  <!-- Tarjeta de AniList -->
+  <!-- NOTA: Si esto no carga, verifica que el usuario 'Argeees' exista y sea público en AniList -->
   <a href="https://anilist.co/user/Argeees">
     <img src="https://github-readme-anilist.vercel.app/api?name=Argeees&theme=dark" alt="AniList Stats" />
   </a>
@@ -81,7 +85,7 @@ Interests:
 
 <h3 align="left">🔥 Actividad de GitHub</h3>
 
-<!-- El enlace fue corregido a raw.githubusercontent para que el GIF funcione -->
+<!-- NOTA: Para que esto funcione, debes configurar el GitHub Action de Platane/snk -->
 <div align="center">
   <img src="https://raw.githubusercontent.com/Argeees/Argeees/output/github-contribution-grid-snake.svg" alt="Snake GIF" />
 </div>
@@ -108,7 +112,6 @@ Interests:
 <div align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=Argeees&bg_color=1F222E&color=C792EA&line=C792EA&point=999999&area=true&hide_border=true&theme=react&height=180" alt="Activity Graph" />
 </div>
-
 
 <!-- SHIELD GROUP DIRECTORY -->
 
