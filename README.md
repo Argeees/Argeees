@@ -1,17 +1,15 @@
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Cutive+Mono&pause=1000&color=969696&center=true&vCenter=true&width=450&lines=Arges+page+<3)](https://git.io/typing-svg)
-
-<!---
-Show profile views
--->
+<div align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Cutive+Mono&pause=1000&color=969696&center=true&vCenter=true&width=450&lines=Arges+page+%3C3" alt="Typing SVG" />
+</div>
 
 <br>
 
-<table align="center" style="border: none;">
+<table align="center" style="border: none; background-color: transparent;">
   <tr>
     <!-- Sección de Imagen / GIF -->
     <td width="40%" align="center">
-      <!-- Puedes subir uno de tus propios diseños de personajes anime a GitHub y poner el link aquí -->
-      <img src="ENLACE_A_TU_GIF_O_IMAGEN_ANIME.gif" alt="Avatar" width="100%" style="border-radius: 10px;" />
+      <!-- Cambia el link de abajo por el de tu propia imagen anime -->
+      <img src="https://i.pinimg.com/originals/c9/22/68/c92268d92cf2dbf96e3195683d9eac12.gif" alt="Avatar" width="100%" style="border-radius: 10px;" />
     </td>
     
     <!-- Sección Terminal / About Me -->
