@@ -14,14 +14,17 @@ jobs:
     steps:
       - uses: lowlighter/metrics@latest
         with:
-          # Para AniList no se requiere token de GitHub
-          token: NOT_NEEDED
+          # Usamos tu token guardado en los Secrets del repositorio
+          token: ${{ secrets.METRICS_TOKEN }}
 
           # Opciones de usuario y plantilla
           user: Argeees
           template: classic
           base: ""
           config_timezone: America/Mexico_City
+          
+          # Configuración para que el archivo se guarde en tu repo
+          output_action: commit
           
           # Configuración de AniList
           plugin_anilist: yes
