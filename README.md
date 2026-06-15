@@ -1,6 +1,8 @@
-<div align="center">
-  <img src="https://komarev.com/ghpvc/?username=TU_USUARIO&label=Profile%20Views&color=ff69b4&style=flat" alt="Profile Views" />
-</div>
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Cutive+Mono&pause=1000&color=efadc9&center=true&vCenter=true&width=450&lines=Pipi's+page+<3)](https://git.io/typing-svg)
+
+<!---
+Show profile views
+-->
 
 <br>
 
