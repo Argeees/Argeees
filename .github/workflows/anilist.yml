@@ -26,9 +26,12 @@ jobs:
           # Configuración para que el archivo se guarde en tu repo
           output_action: commit
           
-          # Configuración de AniList
+# Configuración de AniList
           plugin_anilist: yes
           plugin_anilist_user: Argeees
-          plugin_anilist_limit_characters: 33
-          plugin_anilist_sections: characters
+          # Incluimos ambos: animes y characters
+          plugin_anilist_sections: favorites, characters 
+          # Límites para mostrar exactamente 5 de cada uno
+          plugin_anilist_limit: 5
+          plugin_anilist_limit_characters: 5
           plugin_anilist_shuffle: yes
