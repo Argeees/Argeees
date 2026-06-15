@@ -36,7 +36,7 @@ Interests:
 <div align="center">
   <br>
   <a href="https://tidal.com/browse/track/390710716">
-    <img src="https://img.shields.io/badge/Now%20Listening%20on%20Tidal-000000?style=for-the-badge&logo=tidal&logoColor=white" alt="Tidal"/>
+    <img src="images/Captura de pantalla 2026-06-15 114828.png" width="17%"/>
   </a>
   <br>
   <h3> <img src="https://img.shields.io/badge/-Track-000000?style=flat&logo=vinyl&logoColor=white" /> <a href="https://tidal.com/browse/track/390710716"><b>Haz click aquí para escuchar mi track favorito</b></a> </h3>
